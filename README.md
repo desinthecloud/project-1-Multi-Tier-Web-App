@@ -1,6 +1,6 @@
 # Project 1: Manual Setup of Multi-Tier Web Application (Vagrant + VirtualBox)
 
-This project is my hands-on reality check between being certified and landing my first engineering role. The goal is to stand up a full multi-tier app manually so I understand every moving piece before automating it.
+This project is my hands-on reality check. The goal is to stand up a full multi-tier app manually so I understand every moving piece before automating it.
 
 ## Architecture
 
